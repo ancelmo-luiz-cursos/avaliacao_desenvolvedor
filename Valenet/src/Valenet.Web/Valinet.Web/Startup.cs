@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 using Valinet.Dominio.Interfaces;
 using Valinet.Infra.Contexto;
 using Valinet.Infra.Repositorios;
+using Valinet.Web.Mappers;
 using Valinet.Web.Upload;
 
 namespace Valinet.Web
@@ -34,6 +35,7 @@ namespace Valinet.Web
             services.AddScoped<IFornecedorRepository, FornecedorRepository>();
             services.AddScoped<IProdutoRepository, ProdutoRepository>();
             services.AddScoped<IArquivoService, ArquivoService>();
+            services.AddScoped<IPedidoRepository, PedidoRepository>();
 
             services.AddScoped<DataContext, DataContext>();
 
