@@ -1,0 +1,12 @@
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valinet.Dominio\Valinet.Dominio\bin\Debug\net5.0\Valinet.Dominio.deps.json
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valinet.Dominio\Valinet.Dominio\bin\Debug\net5.0\Valinet.Dominio.dll
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valinet.Dominio\Valinet.Dominio\bin\Debug\net5.0\ref\Valinet.Dominio.dll
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valinet.Dominio\Valinet.Dominio\bin\Debug\net5.0\Valinet.Dominio.pdb
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valinet.Dominio\Valinet.Dominio\obj\Debug\net5.0\Valinet.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valinet.Dominio\Valinet.Dominio\obj\Debug\net5.0\Valinet.Dominio.AssemblyInfoInputs.cache
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valinet.Dominio\Valinet.Dominio\obj\Debug\net5.0\Valinet.Dominio.AssemblyInfo.cs
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valinet.Dominio\Valinet.Dominio\obj\Debug\net5.0\Valinet.Dominio.csproj.CoreCompileInputs.cache
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valinet.Dominio\Valinet.Dominio\obj\Debug\net5.0\Valinet.Dominio.dll
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valinet.Dominio\Valinet.Dominio\obj\Debug\net5.0\ref\Valinet.Dominio.dll
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valinet.Dominio\Valinet.Dominio\obj\Debug\net5.0\Valinet.Dominio.pdb
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valinet.Dominio\Valinet.Dominio\obj\Debug\net5.0\Valinet.Dominio.csproj.AssemblyReference.cache

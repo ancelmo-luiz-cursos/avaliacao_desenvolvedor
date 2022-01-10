@@ -1,0 +1,17 @@
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\bin\Debug\net5.0\Valinet.Historia.deps.json
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\bin\Debug\net5.0\Valinet.Historia.dll
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\bin\Debug\net5.0\ref\Valinet.Historia.dll
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\bin\Debug\net5.0\Valinet.Historia.pdb
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\obj\Debug\net5.0\Valinet.Historia.csproj.AssemblyReference.cache
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\obj\Debug\net5.0\Valinet.Historia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\obj\Debug\net5.0\Valinet.Historia.AssemblyInfoInputs.cache
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\obj\Debug\net5.0\Valinet.Historia.AssemblyInfo.cs
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\obj\Debug\net5.0\Valinet.Historia.csproj.CoreCompileInputs.cache
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\obj\Debug\net5.0\Valinet.Historia.dll
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\obj\Debug\net5.0\ref\Valinet.Historia.dll
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\obj\Debug\net5.0\Valinet.Historia.pdb
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\bin\Debug\net5.0\Valinet.Dominio.dll
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\bin\Debug\net5.0\Valinet.Infra.dll
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\bin\Debug\net5.0\Valinet.Infra.pdb
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\bin\Debug\net5.0\Valinet.Dominio.pdb
+D:\Projetos\Teste\Valenet\avaliacao_desenvolvedor\Valenet\src\Valenet.Historia\Valinet.Historia\obj\Debug\net5.0\Valinet.Historia.csproj.CopyComplete
