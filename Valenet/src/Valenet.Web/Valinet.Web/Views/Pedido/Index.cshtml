@@ -2,6 +2,7 @@
 
 @{
     ViewData["Title"] = "Index";
+    decimal total = 0;
 }
 
 <h1>Pedidos</h1>
@@ -10,22 +11,22 @@
     <thead>
         <tr>
             <th>
-               Comprador
+                Comprador
             </th>
             <th>
                 Descrição
             </th>
             <th>
-               Preço Unitário
+                Preço Unitário
             </th>
             <th>
-               Quantidade
+                Quantidade
             </th>
             <th>
                 Endereço
             </th>
             <th>
-               Fornecedor
+                Fornecedor
             </th>
         </tr>
     </thead>
@@ -52,6 +53,13 @@
                     @Html.DisplayFor(modelItem => item.Fornecedor)
                 </td>
             </tr>
+            total += item.PrecoUnitario * item.Quantidade;
         }
     </tbody>
 </table>
+<div class="row">
+    <div class="col">
+        <strong>TOTAL: </strong>
+        @total
+    </div>
+</div>

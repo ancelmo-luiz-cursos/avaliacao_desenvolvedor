@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
 using Valinet.Dominio.Entidades;
 
 namespace Valinet.Infra.Contexto.Maps
